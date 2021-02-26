@@ -23,12 +23,12 @@
     - [认证授权](#认证授权)
     - [数据脱敏](#数据脱敏)
   - [分布式架构](#分布式架构)
-    - [CAP 理论](#CAP 理论)
-    - [BASE 理论](#BASE 理论)
+    - [CAP 理论](#CAP理论)
+    - [BASE 理论](#BASE理论)
   - [高并发](#高并发)
-    - [分布式 id](#分布式 id)
+    - [分布式id](#分布式id)
     - [RPC](#RPC)
-    - [API 网关](#API 网关)
+    - [API网关](#API网关)
     - [微服务](#微服务)
     - [消息队列](#消息队列)
     - [负载均衡](#负载均衡)
@@ -44,10 +44,10 @@
 
 ## JavaSE
 ### 基础
- - **知识点/面试题:**
+ **知识点/面试题:**
   - **[Java 基础知识](docs/java/basis/Java基础知识.md)**
   - **[Java 基础知识疑难点/易错点](docs/java/basis/Java基础知识疑难点.md)**
- - **重要知识点详解：**
+ **重要知识点详解：**
   - [枚举](docs/java/basis/用好Java中的枚举真的没有那么简单.md)
   - [Java 常见关键字总结：final、static、this、super!](docs/java/basis/Java常见关键字总结.md)
   - [什么是反射机制?反射机制的应用场景有哪些?](docs/java/basis/反射机制.md)
@@ -55,7 +55,7 @@
 
 ### 容器
  - **[Java 容器常见面试题/知识点总结](docs/java/collection/Java集合框架常见面试题.md)** (必看 :+1:)
- - **源码分析** 
+ **源码分析** 
   - [ArrayList 源码+扩容机制分析](docs/java/collection/ArrayList源码+扩容机制分析.md) 
   - [LinkedList 源码](docs/java/collection/LinkedList源码分析.md) 
   - [HashMap(JDK1.8)源码+底层数据结构分析](<docs/java/collection/HashMap(JDK1.8)源码+底层数据结构分析.md>) 
@@ -63,10 +63,10 @@
 
 ### 并发
  - **[多线程学习指南](./docs/java/multi-thread/多线程学习指南.md)**
- - **知识点/面试题:**
+ **知识点/面试题:**
   - **[Java 并发基础常见面试题总结](docs/java/multi-thread/2020最新Java并发基础常见面试题总结.md)**
   - **[Java 并发进阶常见面试题总结](docs/java/multi-thread/2020最新Java并发进阶常见面试题总结.md)**
- - **重要知识点详解：**
+ **重要知识点详解：**
   - **线程池**
    - [Java 线程池学习总结](./docs/java/multi-thread/java线程池学习总结.md)
    - [拿来即用的线程池最佳实践](./docs/java/multi-thread/拿来即用的线程池最佳实践.md)
@@ -88,12 +88,12 @@
  - **[【加餐】大白话带你认识 JVM](docs/java/jvm/[加餐]大白话带你认识JVM.md)**
 
 ### 新特性
- - **Java 8**
+ **Java 8**
   - [Java 8 新特性总结](docs/java/new-features/Java8新特性总结.md)
   - [Java8常用新特性总结](docs/java/new-features/java8-common-new-features.md) 
   - [Java 8 学习资源推荐](docs/java/new-features/Java8教程推荐.md)
   - [Java8 forEach 指南](docs/java/new-features/Java8foreach指南.md)
- - **Java9~Java14**
+ **Java9~Java14**
   - [一文带你看遍 JDK9~14 的重要新特性！](./docs/java/new-features/一文带你看遍JDK9到14的重要新特性.md)
 
 ### 编码之道
@@ -102,14 +102,14 @@
  - [RestFul API 简明教程](docs/system-design/coding-way/RESTfulAPI简明教程.md)
 
 ### 工具
- - **Java**
+ **Java**
   - [JAD 反编译](docs/java/JAD反编译tricks.md)
   - [手把手教你定位常见 Java 性能问题](./docs/java/手把手教你定位常见Java性能问题.md)
- - **Git**
+ **Git**
   - [Git 入门](docs/tools/Git.md)
- - **Github**
+ **Github**
   - [我使用Github 5 年总结了这些骚操作](docs/tools/Github技巧.md)
- - **Docker**
+ **Docker**
   - [Docker 基本概念解读](docs/tools/Docker.md) 
   - [一文搞懂 Docker 镜像的常用操作！](docs/tools/Docker-Image.md)
 
@@ -118,12 +118,12 @@
  - [《J2EE 基础知识》](docs/java/J2EE基础知识.md) 对 Java 后台技术发展有更深的认识。
 
 ### 常用框架
- - **知识点/面试题:** 
+ **知识点/面试题:** 
   - [代理模式详解：静态代理+JDK/CGLIB 动态代理实战](docs/java/basis/代理模式详解.md)
   - **[Spring 常见问题总结](docs/system-design/framework/spring/Spring常见问题总结.md)**
   - **[SpringBoot 指南/常见面试题总结](https://github.com/Snailclimb/springboot-guide)**
   - **[面试常问：“讲述一下 SpringBoot 自动装配原理？”](https://www.cnblogs.com/javaguide/p/springboot-auto-config.html)**
- - **重要知识点详解：**
+ **重要知识点详解：**
   - **[Spring/Spring Boot 常用注解总结！安排！](./docs/system-design/framework/spring/SpringBoot+Spring常用注解总结.md)** 
   - **[Spring 事务总结](docs/system-design/framework/spring/Spring事务总结.md)** 
   - [Spring 中都用到了那些设计模式?](docs/system-design/framework/spring/Spring-Design-Patterns.md)
@@ -139,14 +139,14 @@
 
 ## 数据结构与算法
 ### 数据结构
-- **图解数据结构：**
+**图解数据结构：**
  - [线性数据结构 :数组、链表、栈、队列](docs/dataStructures-algorithms/data-structure/线性数据结构.md)
  - [图](docs/dataStructures-algorithms/data-structure/图.md)
  - [不了解布隆过滤器？一文给你整的明明白白！](docs/dataStructures-algorithms/data-structure/bloom-filter.md)
 ### 算法
  - [算法学习书籍+资源推荐](https://www.zhihu.com/question/323359308/answer/1545320858) 。
  - [如何刷Leetcode?](https://www.zhihu.com/question/31092580/answer/1534887374) 
- - **常见算法问题总结：**
+ **常见算法问题总结：**
   - [几道常见的字符串算法题总结 ](docs/dataStructures-algorithms/几道常见的子符串算法题.md)
   - [几道常见的链表算法题总结 ](docs/dataStructures-algorithms/几道常见的链表算法题.md)
   - [剑指 offer 部分编程题](docs/dataStructures-algorithms/剑指offer部分编程题.md)
@@ -157,7 +157,7 @@
  - **[阿里巴巴开发手册数据库部分的一些最佳实践](docs/database/阿里巴巴开发手册数据库部分的一些最佳实践.md)**
  - **[一千行 MySQL 学习笔记](docs/database/一千行MySQL命令.md)**
  - [MySQL 高性能优化规范建议](docs/database/MySQL高性能优化规范建议.md)
- - **重要知识点：**
+ **重要知识点：**
   - [数据库索引总结 1](docs/database/MySQL%20Index.md)、[数据库索引总结 2](docs/database/数据库索引.md)
   - [事务隔离级别(图文详解)](<docs/database/事务隔离级别(图文详解).md>)
   - [一条 SQL 语句在 MySQL 中如何执行的](docs/database/一条sql语句在mysql中如何执行的.md)
@@ -172,18 +172,18 @@
  - [剖析面试最常见问题之 Netty（下）](https://xiaozhuanlan.com/topic/3985146207)
 
 ### ZooKeeper
-1. [【入门】ZooKeeper 相关概念](docs/system-design/distributed-system/zookeeper/zookeeper-intro.md)
-2. [【进阶】ZooKeeper 相关总结](docs/system-design/distributed-system/zookeeper/zookeeper-plus.md)
-3. [【实战】ZooKeeper 实战](docs/system-design/distributed-system/zookeeper/zookeeper-in-action.md)
+ - [【入门】ZooKeeper 相关概念](docs/system-design/distributed-system/zookeeper/zookeeper-intro.md)
+ - [【进阶】ZooKeeper 相关总结](docs/system-design/distributed-system/zookeeper/zookeeper-plus.md)
+ - [【实战】ZooKeeper 实战](docs/system-design/distributed-system/zookeeper/zookeeper-in-action.md)
 
 ### 安全
 #### 认证授权
  - **[《认证授权基础》](docs/system-design/authority-certification/basis-of-authority-certification.md)** 
- - **JWT**
+ **JWT**
   - JSON Web Token是一种身份认证的方式，JWT 本质上就一段签名的 JSON 格式的数据。由于它是带有签名的，因此接收者便可以验证它的真实性
   - [JWT 优缺点分析以及常见问题解决方案](docs/system-design/authority-certification/JWT优缺点分析以及常见问题解决方案.md)
   - [适合初学者入门 Spring Security With JWT 的 Demo](https://github.com/Snailclimb/spring-security-jwt-guide)
- - **SSO(单点登录)**
+ **SSO(单点登录)**
   - Single Sign On 即单点登录说的是用户登陆多个子系统的其中一个就有权访问与其相关的其他系统。
   - [SSO 单点登录看这篇就够了！](docs/system-design/authority-certification/SSO单点登录看这一篇就够了.md)
 #### 数据脱敏
@@ -193,15 +193,15 @@
 ### 分布式架构
  - [8 张图读懂大型网站技术架构](docs/system-design/website-architecture/8%20张图读懂大型网站技术架构.md)
  - [关于大型网站系统架构你不得不懂的 10 个问题](docs/system-design/website-architecture/关于大型网站系统架构你不得不懂的10个问题.md)
-#### CAP 理论
- - **Consistency（一致性）**
- - **Availability（可用性）**
- - **Partition Tolerance（分区容错性）**
+#### CAP理论
+ **Consistency（一致性）**
+ **Availability（可用性）**
+ **Partition Tolerance（分区容错性）**
  - [《CAP理论解读》](docs/system-design/distributed-system/CAP理论.md)
-#### BASE 理论
- - **Basically Available（基本可用）** 
- - **Soft-state（软状态）**
- - **Eventually Consistent（最终一致性）**
+#### BASE理论
+ **Basically Available（基本可用）** 
+ **Soft-state（软状态）**
+ **Eventually Consistent（最终一致性）**
  - [《BASE理论解读》](docs/system-design/distributed-system/BASE理论.md)
 
 ### 高并发
@@ -213,7 +213,7 @@
  - [Dubbo 总结：关于 Dubbo 的重要知识点](docs/system-design/distributed-system/rpc/关于Dubbo的重要知识点.md)
  - [服务之间的调用为啥不直接用 HTTP 而用 RPC？](docs/system-design/distributed-system/rpc/服务之间的调用为啥不直接用HTTP而用RPC.md)
  - [一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架](https://github.com/Snailclimb/guide-rpc-framework)
-#### API 网关
+#### API网关
  - 网关主要用于请求转发、安全认证、协议转换、容灾。
  - [为什么要网关？你知道有哪些常见的网关系统？](docs/system-design/distributed-system/api-gateway/为什么要网站有哪些常见的网站系统.md)
  - [如何设计一个亿级网关(API Gateway)？](docs/system-design/distributed-system/api-gateway/如何设计一个亿级网关.md)
@@ -245,7 +245,7 @@
 ### 高可用
  - 高可用描述的是一个系统在大部分时间都是可用的，可以为我们提供服务的。
  - 高可用代表系统即使在发生硬件故障或者系统升级的时候，服务仍然是可用的 。
- - **《[如何设计一个高可用系统？要考虑哪些地方？](docs/system-design/high-availability/如何设计一个高可用系统要考虑哪些地方.md)》** 
+ - 《[如何设计一个高可用系统？要考虑哪些地方？](docs/system-design/high-availability/如何设计一个高可用系统要考虑哪些地方.md)》
 #### 限流
  - 限流是从用户访问压力的角度来考虑如何应对系统故障。
  - 限流为了对服务端的接口接受请求的频率进行限制，防止服务挂掉。
