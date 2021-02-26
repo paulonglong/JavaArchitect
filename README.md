@@ -1,38 +1,3 @@
-👍推荐 [图解Java+操作系统+HTTP+计算机网络的 PDF 资料](#优质原创PDF资源)
-
-
-<p align="center">
-<a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
-	<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/logo - 副本.png" width=""/>
-</a>
-</p>
-<p align="center">
-  <a href="https://snailclimb.gitee.io/javaguide"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
-  <a href="https://xiaozhuanlan.com/javainterview?rel=javaguide"><img src="https://img.shields.io/badge/Java-面试指南-important" alt="投稿"></a>
-</p>
-
-
-<h3 align="center">Sponsor</h3>
-
-<table>
-  <tbody>
-    <tr>
-       <td align="center" valign="middle">
-        <a href="https://sourl.cn/U7rukQ">
-         <img src="./media/sponsor/知识星球.png" style="margin: 0 auto;width:850px" /></a>
-      </td>       
-    </tr>
-  </tbody>
-</table>
-
-
-
-
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
 - [Java](#java)
   - [基础](#基础)
   - [容器](#容器)
@@ -428,5 +393,3 @@ RPC 让调用远程服务调用像调用本地方法那样简单。
 为了避免恶意传播，微信搜“**Github掘金计划**”后台回复 **“006”** 即可获取。
 
 <img src="https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-2@main/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/qrcode_for_gh_8b9b6034ac19_258.jpg" style="text-align:right"/>
-
-
