@@ -60,12 +60,12 @@
 
 ### 并发
  - **[多线程学习指南](./docs/java/multi-thread/多线程学习指南.md)**
- - **[Java 并发基础常见面试题总结](docs/java/multi-thread/2020最新Java并发基础常见面试题总结.md)**
- - **[Java 并发进阶常见面试题总结](docs/java/multi-thread/2020最新Java并发进阶常见面试题总结.md)**
- - [Java 线程池学习总结](./docs/java/multi-thread/java线程池学习总结.md)
+ - **[Java 并发基础](docs/java/multi-thread/2020最新Java并发基础常见面试题总结.md)**
+ - **[Java 并发进阶](docs/java/multi-thread/2020最新Java并发进阶常见面试题总结.md)**
+ - [Java并发线程池](./docs/java/multi-thread/java线程池学习总结.md)
  - [拿来即用的线程池最佳实践](./docs/java/multi-thread/拿来即用的线程池最佳实践.md)
  - [乐观锁与悲观锁](docs/essential-content-for-interview/面试必备之乐观锁与悲观锁.md)
- - [ ThreadLocal 关键字解析](docs/java/multi-thread/万字详解ThreadLocal关键字.md)
+ - [ThreadLocal 关键字解析](docs/java/multi-thread/万字详解ThreadLocal关键字.md)
  - [并发容器总结](docs/java/multi-thread/并发容器总结.md)
  - [JUC 中的 Atomic 原子类总结](docs/java/multi-thread/Atomic原子类总结.md)
  - [AQS 原理以及 AQS 同步组件总结](docs/java/multi-thread/AQS原理以及AQS同步组件总结.md)
@@ -77,17 +77,14 @@
  - [类文件结构](docs/java/jvm/类文件结构.md)
  - **[类加载过程](docs/java/jvm/类加载过程.md)**
  - [类加载器](docs/java/jvm/类加载器.md)
- - **[【待完成】最重要的 JVM 参数指南（翻译完善了一半）](docs/java/jvm/最重要的JVM参数指南.md)**
  - [JVM 配置常用参数和常用 GC 调优策略](docs/java/jvm/GC调优参数.md)
  - **[【加餐】大白话带你认识 JVM](docs/java/jvm/[加餐]大白话带你认识JVM.md)**
 
 ### 新特性
-#### Java 8
   - [Java 8 新特性总结](docs/java/new-features/Java8新特性总结.md)
   - [Java8常用新特性总结](docs/java/new-features/java8-common-new-features.md) 
   - [Java 8 学习资源推荐](docs/java/new-features/Java8教程推荐.md)
   - [Java8 forEach 指南](docs/java/new-features/Java8foreach指南.md)
-#### Java9~Java14
   - [一文带你看遍 JDK9~14 的重要新特性！](./docs/java/new-features/一文带你看遍JDK9到14的重要新特性.md)
 
 ### 编码之道
