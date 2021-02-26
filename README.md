@@ -365,31 +365,3 @@ RPC 让调用远程服务调用像调用本地方法那样简单。
 3. **Github** ： [我使用Github 5 年总结了这些骚操作](docs/tools/Github技巧.md)
 4. **Docker** : [Docker 基本概念解读](docs/tools/Docker.md) 、[一文搞懂 Docker 镜像的常用操作！](docs/tools/Docker-Image.md)
 
-## 面试指南
-
-> 这部分很多内容比如大厂面经、真实面经分析被移除，详见[完结撒花！JavaGuide 面试突击版来啦！](./docs/javaguide面试突击版.md)。
-
-1. **[【备战面试 1】程序员的简历就该这样写](docs/essential-content-for-interview/PreparingForInterview/程序员的简历之道.md)**
-2. **[【备战面试 2】初出茅庐的程序员该如何准备面试？](docs/essential-content-for-interview/PreparingForInterview/interviewPrepare.md)**
-3. **[【备战面试 3】7 个大部分程序员在面试前很关心的问题](docs/essential-content-for-interview/PreparingForInterview/JavaProgrammerNeedKnow.md)**
-4. **[【备战面试 4】Github 上开源的 Java 面试/学习相关的仓库推荐](docs/essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md)**
-5. **[【备战面试 5】如果面试官问你“你有什么问题问我吗？”时，你该如何回答](docs/essential-content-for-interview/PreparingForInterview/面试官-你有什么问题要问我.md)**
-6. [【备战面试 6】应届生面试最爱问的几道 Java 基础问题](docs/essential-content-for-interview/PreparingForInterview/应届生面试最爱问的几道Java基础问题.md)
-7. **[【备战面试 6】美团面试常见问题总结(附详解答案)](docs/essential-content-for-interview/PreparingForInterview/美团面试常见问题总结.md)**
-
-## Java 学习常见问题汇总
-
-1. [Java 学习路线和方法推荐](docs/questions/java-learning-path-and-methods.md)
-2. [Java 培训四个月能学会吗？](docs/questions/java-training-4-month.md)
-3. [新手学习 Java，有哪些 Java 相关的博客，专栏，和技术学习网站推荐？](docs/questions/java-learning-website-blog.md)
-4. [Java 还是大数据，你需要了解这些东西！](docs/questions/java-big-data.md)
-
-
-
-### 优质原创PDF资源
-
-![](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-2@main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/image-20201027160348395.png)
-
-为了避免恶意传播，微信搜“**Github掘金计划**”后台回复 **“006”** 即可获取。
-
-<img src="https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-2@main/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/qrcode_for_gh_8b9b6034ac19_258.jpg" style="text-align:right"/>
