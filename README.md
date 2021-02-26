@@ -44,17 +44,17 @@
 
 ## JavaSE
 ### 基础
-- **知识点/面试题:**
--- **[Java 基础知识](docs/java/basis/Java基础知识.md)**
--- **[Java 基础知识疑难点/易错点](docs/java/basis/Java基础知识疑难点.md)**
-- **重要知识点详解：**
--- [枚举](docs/java/basis/用好Java中的枚举真的没有那么简单.md)
--- [Java 常见关键字总结：final、static、this、super!](docs/java/basis/Java常见关键字总结.md)
--- [什么是反射机制?反射机制的应用场景有哪些?](docs/java/basis/反射机制.md)
--- [BIO,NIO,AIO 总结 ](docs/java/basis/BIO,NIO,AIO总结.md)
+ - **1知识点/面试题:**
+  - **[Java 基础知识](docs/java/basis/Java基础知识.md)**
+  - **[Java 基础知识疑难点/易错点](docs/java/basis/Java基础知识疑难点.md)**
+ - **2重要知识点详解：**
+  - [枚举](docs/java/basis/用好Java中的枚举真的没有那么简单.md)
+  - [Java 常见关键字总结：final、static、this、super!](docs/java/basis/Java常见关键字总结.md)
+  - [什么是反射机制?反射机制的应用场景有哪些?](docs/java/basis/反射机制.md)
+  - [BIO,NIO,AIO 总结 ](docs/java/basis/BIO,NIO,AIO总结.md)
 
 ### 容器
- - **[Java 容器常见面试题/知识点总结](docs/java/collection/Java集合框架常见面试题.md)** (必看 :+1:)
+ - **[Java 容器常见面试题/知识点总结](docs/java/collection/Java集合框架常见面试题.md)**
  **源码分析** 
   - [ArrayList 源码+扩容机制分析](docs/java/collection/ArrayList源码+扩容机制分析.md) 
   - [LinkedList 源码](docs/java/collection/LinkedList源码分析.md) 
@@ -63,13 +63,12 @@
 
 ### 并发
  - **[多线程学习指南](./docs/java/multi-thread/多线程学习指南.md)**
- **知识点/面试题:**
+ - **1知识点/面试题:**
   - **[Java 并发基础常见面试题总结](docs/java/multi-thread/2020最新Java并发基础常见面试题总结.md)**
   - **[Java 并发进阶常见面试题总结](docs/java/multi-thread/2020最新Java并发进阶常见面试题总结.md)**
- **重要知识点详解：**
-  - **线程池**
-   - [Java 线程池学习总结](./docs/java/multi-thread/java线程池学习总结.md)
-   - [拿来即用的线程池最佳实践](./docs/java/multi-thread/拿来即用的线程池最佳实践.md)
+ - **2重要知识点详解：**
+  - [Java 线程池学习总结](./docs/java/multi-thread/java线程池学习总结.md)
+  - [拿来即用的线程池最佳实践](./docs/java/multi-thread/拿来即用的线程池最佳实践.md)
   - [乐观锁与悲观锁](docs/essential-content-for-interview/面试必备之乐观锁与悲观锁.md)
   - [ ThreadLocal 关键字解析](docs/java/multi-thread/万字详解ThreadLocal关键字.md)
   - [并发容器总结](docs/java/multi-thread/并发容器总结.md)
@@ -88,12 +87,12 @@
  - **[【加餐】大白话带你认识 JVM](docs/java/jvm/[加餐]大白话带你认识JVM.md)**
 
 ### 新特性
- **Java 8**
+ - **Java 8**
   - [Java 8 新特性总结](docs/java/new-features/Java8新特性总结.md)
   - [Java8常用新特性总结](docs/java/new-features/java8-common-new-features.md) 
   - [Java 8 学习资源推荐](docs/java/new-features/Java8教程推荐.md)
   - [Java8 forEach 指南](docs/java/new-features/Java8foreach指南.md)
- **Java9~Java14**
+ - **Java9~Java14**
   - [一文带你看遍 JDK9~14 的重要新特性！](./docs/java/new-features/一文带你看遍JDK9到14的重要新特性.md)
 
 ### 编码之道
@@ -102,14 +101,14 @@
  - [RestFul API 简明教程](docs/system-design/coding-way/RESTfulAPI简明教程.md)
 
 ### 工具
- **Java**
+ - **Java**
   - [JAD 反编译](docs/java/JAD反编译tricks.md)
   - [手把手教你定位常见 Java 性能问题](./docs/java/手把手教你定位常见Java性能问题.md)
- **Git**
+ - **Git**
   - [Git 入门](docs/tools/Git.md)
- **Github**
+ - **Github**
   - [我使用Github 5 年总结了这些骚操作](docs/tools/Github技巧.md)
- **Docker**
+ - **Docker**
   - [Docker 基本概念解读](docs/tools/Docker.md) 
   - [一文搞懂 Docker 镜像的常用操作！](docs/tools/Docker-Image.md)
 
@@ -118,12 +117,12 @@
  - [《J2EE 基础知识》](docs/java/J2EE基础知识.md) 对 Java 后台技术发展有更深的认识。
 
 ### 常用框架
- **知识点/面试题:** 
+ - **1知识点/面试题:** 
   - [代理模式详解：静态代理+JDK/CGLIB 动态代理实战](docs/java/basis/代理模式详解.md)
   - **[Spring 常见问题总结](docs/system-design/framework/spring/Spring常见问题总结.md)**
   - **[SpringBoot 指南/常见面试题总结](https://github.com/Snailclimb/springboot-guide)**
   - **[面试常问：“讲述一下 SpringBoot 自动装配原理？”](https://www.cnblogs.com/javaguide/p/springboot-auto-config.html)**
- **重要知识点详解：**
+ - **2重要知识点详解：**
   - **[Spring/Spring Boot 常用注解总结！安排！](./docs/system-design/framework/spring/SpringBoot+Spring常用注解总结.md)** 
   - **[Spring 事务总结](docs/system-design/framework/spring/Spring事务总结.md)** 
   - [Spring 中都用到了那些设计模式?](docs/system-design/framework/spring/Spring-Design-Patterns.md)
@@ -139,7 +138,7 @@
 
 ## 数据结构与算法
 ### 数据结构
-**图解数据结构：**
+- **图解数据结构：**
  - [线性数据结构 :数组、链表、栈、队列](docs/dataStructures-algorithms/data-structure/线性数据结构.md)
  - [图](docs/dataStructures-algorithms/data-structure/图.md)
  - [不了解布隆过滤器？一文给你整的明明白白！](docs/dataStructures-algorithms/data-structure/bloom-filter.md)
