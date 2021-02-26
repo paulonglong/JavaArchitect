@@ -2,23 +2,23 @@
   - [基础](#基础)
   - [容器](#容器)
   - [并发](#并发)
-  - [JVM](#jvm)
+  - [JVM](#JVM)
   - [新特性](#新特性)
   - [编码之道](#编码之道)
   - [工具](#工具)
 - [JavaEE](#javaEE)
   - [基础知识](#基础知识)
-  - [Spring/SpringBoot](#Spring/SpringBoot)
+  - [常用框架](#常用框架)
 - [网络](#网络)
 - [操作系统](#操作系统)
 - [数据结构与算法](#数据结构与算法)
   - [数据结构](#数据结构)
   - [算法](#算法)
 - [系统架构](#系统架构)
-  - [MySQL](#mysql)
-  - [Redis](#redis)
-  - [Netty](#netty)
-  - [ZooKeeper](#zookeeper)
+  - [MySQL](#MySQL)
+  - [Redis](#Redis)
+  - [Netty](#Netty)
+  - [ZooKeeper](#ZooKeeper)
   - [安全](#安全)
     - [认证授权](#认证授权)
     - [数据脱敏](#数据脱敏)
@@ -117,7 +117,7 @@
 ### 基础知识
  - [《J2EE 基础知识》](docs/java/J2EE基础知识.md) 对 Java 后台技术发展有更深的认识。
 
-### Spring/SpringBoot
+### 常用框架
  - **知识点/面试题:** 
   - [代理模式详解：静态代理+JDK/CGLIB 动态代理实战](docs/java/basis/代理模式详解.md)
   - **[Spring 常见问题总结](docs/system-design/framework/spring/Spring常见问题总结.md)**
