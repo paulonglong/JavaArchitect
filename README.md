@@ -1,15 +1,5 @@
-👍推荐 [在线阅读](https://snailclimb.gitee.io/javaguide)  (Github 访问速度比较慢可能会导致部分图片无法刷新出来) 
-
 👍推荐 [图解Java+操作系统+HTTP+计算机网络的 PDF 资料](#优质原创PDF资源)
 
-## 一些闲话：
-
-> 1. **介绍**：关于 JavaGuide 的相关介绍请看：[关于 JavaGuide 的一些说明](https://www.yuque.com/snailclimb/dr6cvl/mr44yt) 。PDF 版本请看：[完结撒花！JavaGuide 面试突击版来啦！](./docs/javaguide面试突击版.md) 。
-> 2. **PDF版本** ： [《JavaGuide 面试突击版》PDF 版本](#公众号) 。
-> 3. **面试专版** ：准备面试的小伙伴可以考虑面试专版：[《Java 面试进阶指南》](https://xiaozhuanlan.com/javainterview?rel=javaguide) ，
-> 4. **知识星球** : 简历指导/Java学习/面试指导/offer选择。欢迎加入[我的知识星球](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247497451&idx=1&sn=ea566dd64662ff8d5260f079c11c2268&chksm=cea1b920f9d630367eb80666da7b599bb610b9d61c6f956add1ee0a607ddcd61372931808877&token=804689790&lang=zh_CN#rd) 。
-> 5. **联系我** ：如要进群或者请教问题，请[联系我](#联系我) （备注来自 Github。请直入问题，工作时间不回复）。
-> 6. **转载须知** ：以下所有文章如非文首说明皆为我（Guide哥）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
 
 <p align="center">
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
@@ -18,10 +8,6 @@
 </p>
 <p align="center">
   <a href="https://snailclimb.gitee.io/javaguide"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaGuide-lightgrey.svg" alt="公众号"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/PDF-Java面试突击-important.svg" alt="公众号"></a>
-  <a href="#投稿"><img src="https://img.shields.io/badge/support-投稿-critical.svg" alt="投稿"></a>
-  <img src="https://img.shields.io/github/stars/Snailclimb/JavaGuide" alt="投稿">
   <a href="https://xiaozhuanlan.com/javainterview?rel=javaguide"><img src="https://img.shields.io/badge/Java-面试指南-important" alt="投稿"></a>
 </p>
 
@@ -433,24 +419,7 @@ RPC 让调用远程服务调用像调用本地方法那样简单。
 3. [新手学习 Java，有哪些 Java 相关的博客，专栏，和技术学习网站推荐？](docs/questions/java-learning-website-blog.md)
 4. [Java 还是大数据，你需要了解这些东西！](docs/questions/java-big-data.md)
 
-## 书单
 
-1. [「基础篇」Java 书单](./docs/books/java基础篇.md)
-
----
-
-## 其他
-
-### 贡献者
-
-[你可以点此链接查看JavaGuide的所有贡献者。](https://github.com/Snailclimb/JavaGuide/graphs/contributors) 感谢你们让 JavaGuide 变得更好！如果你们来到武汉一定要找我，我请你们吃饭玩耍。
-
-*悄悄话：JavaGuide 会不定时为贡献者们送福利。*
-
-### 待办
-
-- [x] Netty 总结
-- [ ] 数据结构总结重构
 
 ### 优质原创PDF资源
 
@@ -460,21 +429,4 @@ RPC 让调用远程服务调用像调用本地方法那样简单。
 
 <img src="https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-2@main/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/qrcode_for_gh_8b9b6034ac19_258.jpg" style="text-align:right"/>
 
-### 捐赠支持
-
-项目的发展离不开你的支持，如果 JavaGuide 帮助到了你找到自己满意的 offer，请作者喝杯咖啡吧 ☕ 后续会继续完善更新！加油！
-
-[点击捐赠支持作者](https://www.yuque.com/snailclimb/dr6cvl/mr44yt#vu3ok)
-
-### 联系我
-
-<img src="https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-3@main/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/31603935587_.pic_hd.jpg" style="zoom:67%;" />
-
-### 公众号
-
-如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号“**JavaGuide**”。
-
-**《Java 面试突击》:** 由本文档衍生的专为面试而生的《Java 面试突击》V3.0 PDF 版本[公众号](#公众号)后台回复 **"面试突击"** 即可免费领取！
-
-![我的公众号](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images/2020-08/167598cd2e17b8ec.png)
 
