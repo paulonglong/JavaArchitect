@@ -44,10 +44,8 @@
 
 ## JavaSE
 ### 基础
-#### 知识点/面试题
  - **[Java 基础知识](docs/java/basis/Java基础知识.md)**
  - **[Java 基础知识疑难点/易错点](docs/java/basis/Java基础知识疑难点.md)**
-#### 重要知识点详解**
  - [枚举](docs/java/basis/用好Java中的枚举真的没有那么简单.md)
  - [Java 常见关键字总结：final、static、this、super!](docs/java/basis/Java常见关键字总结.md)
  - [什么是反射机制?反射机制的应用场景有哪些?](docs/java/basis/反射机制.md)
@@ -55,7 +53,6 @@
 
 ### 容器
  - **[Java 容器常见面试题/知识点总结](docs/java/collection/Java集合框架常见面试题.md)**
-#### 源码分析
  - [ArrayList 源码+扩容机制分析](docs/java/collection/ArrayList源码+扩容机制分析.md) 
  - [LinkedList 源码](docs/java/collection/LinkedList源码分析.md) 
  - [HashMap(JDK1.8)源码+底层数据结构分析](<docs/java/collection/HashMap(JDK1.8)源码+底层数据结构分析.md>) 
@@ -63,10 +60,8 @@
 
 ### 并发
  - **[多线程学习指南](./docs/java/multi-thread/多线程学习指南.md)**
-#### 知识点/面试题
  - **[Java 并发基础常见面试题总结](docs/java/multi-thread/2020最新Java并发基础常见面试题总结.md)**
  - **[Java 并发进阶常见面试题总结](docs/java/multi-thread/2020最新Java并发进阶常见面试题总结.md)**
-#### 重要知识点详解
  - [Java 线程池学习总结](./docs/java/multi-thread/java线程池学习总结.md)
  - [拿来即用的线程池最佳实践](./docs/java/multi-thread/拿来即用的线程池最佳实践.md)
  - [乐观锁与悲观锁](docs/essential-content-for-interview/面试必备之乐观锁与悲观锁.md)
@@ -101,14 +96,10 @@
  - [RestFul API 简明教程](docs/system-design/coding-way/RESTfulAPI简明教程.md)
 
 ### 工具
-#### Java
   - [JAD 反编译](docs/java/JAD反编译tricks.md)
   - [手把手教你定位常见 Java 性能问题](./docs/java/手把手教你定位常见Java性能问题.md)
-#### Git
   - [Git 入门](docs/tools/Git.md)
-#### Github
   - [我使用Github 5 年总结了这些骚操作](docs/tools/Github技巧.md)
-#### Docker
   - [Docker 基本概念解读](docs/tools/Docker.md) 
   - [一文搞懂 Docker 镜像的常用操作！](docs/tools/Docker-Image.md)
 
@@ -117,12 +108,10 @@
  - [《J2EE 基础知识》](docs/java/J2EE基础知识.md) 对 Java 后台技术发展有更深的认识。
 
 ### 常用框架
-#### 知识点/面试题
   - [代理模式详解：静态代理+JDK/CGLIB 动态代理实战](docs/java/basis/代理模式详解.md)
   - **[Spring 常见问题总结](docs/system-design/framework/spring/Spring常见问题总结.md)**
   - **[SpringBoot 指南/常见面试题总结](https://github.com/Snailclimb/springboot-guide)**
   - **[面试常问：“讲述一下 SpringBoot 自动装配原理？”](https://www.cnblogs.com/javaguide/p/springboot-auto-config.html)**
-#### 重要知识点详解
   - **[Spring/Spring Boot 常用注解总结！安排！](./docs/system-design/framework/spring/SpringBoot+Spring常用注解总结.md)** 
   - **[Spring 事务总结](docs/system-design/framework/spring/Spring事务总结.md)** 
   - [Spring 中都用到了那些设计模式?](docs/system-design/framework/spring/Spring-Design-Patterns.md)
